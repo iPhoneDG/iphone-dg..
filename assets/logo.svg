@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 280 184" role="img" aria-labelledby="logoTitle">
+  <title id="logoTitle">IPHONE D&amp;G</title>
+  <defs>
+    <style>
+      .wm {
+        font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+        font-weight: 800;
+        font-size: 24px;
+        letter-spacing: 0.08em;
+        fill: #e8eef5;
+      }
+      .amp { font-size: 17px; letter-spacing: 0; }
+    </style>
+  </defs>
+  <!-- Bolsa -->
+  <path fill="#e8eef5" d="M76 68h128c7 0 13 6 13 13v46c0 15-12 27-27 27H90c-15 0-27-12-27-27V81c0-7 6-13 13-13z"/>
+  <!-- Asa -->
+  <path fill="#e8eef5" d="M104 68V58c0-18 15-32 36-32s36 14 36 32v10h-11V58c0-12-10-21-25-21s-25 9-25 21v10h-11z"/>
+  <!-- iPhone -->
+  <rect x="120" y="82" width="40" height="72" rx="5.5" fill="#0b1628"/>
+  <rect x="125" y="89" width="30" height="40" rx="2" fill="#6b849e" opacity="0.35"/>
+  <rect x="132" y="93" width="16" height="2.8" rx="1.4" fill="#e8eef5"/>
+  <circle cx="140" cy="142" r="4" fill="none" stroke="#e8eef5" stroke-width="2"/>
+  <!-- Wordmark -->
+  <text x="140" y="174" text-anchor="middle" class="wm">
+    <tspan>IPHONE D</tspan><tspan class="amp">&amp;</tspan><tspan>G</tspan>
+  </text>
+</svg>
